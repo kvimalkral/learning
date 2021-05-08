@@ -1,0 +1,18 @@
+git --v
+
+git help
+
+git help init   to make normal holder to git holder
+================================
+
+git status
+ 
+.git
+//not a git repository
+
+git insilation
+==============
+git init 
+
+
+
